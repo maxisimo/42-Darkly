@@ -15,7 +15,7 @@ Nous conniassons le type de fichier, il ne nous reste plus que la data (notre sc
 `<script>alert('toto')</script>`  
 Il faut maintenant l'encoder en base64 étant donné qu'il va finir dans notre URI :  
 `PHNjcmlwdD5hbGVydCgndG90bycpPC9zY3JpcHQ+`  
-Maintenant que nous avons toutes les données on peut renplacer `nsa` par notre data-URI :  
+Maintenant que nous avons toutes les données on peut remplacer `nsa` par notre data-URI :  
 `http://192.168.1.32/index.php?page=media&src=data:text/html;base64,PHNjcmlwdD5hbGVydCgndG90bycpPC9zY3JpcHQ+`  
 
 # Comment l'éviter ?
