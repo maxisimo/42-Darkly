@@ -1,4 +1,4 @@
-# Expliquations
+# Explications
 
 Depuis la page home, cliquer sur `Sign in` puis `I forgot my password`  
 
