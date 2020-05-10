@@ -1,4 +1,4 @@
-# Expliquations
+# Explications
 
 A la fin de chaque page du site, on peut remarquer 3 redirections vers les reseaux sociaux facebook, twitter en instagram.  
 Pour changer cela il suffit tout simplement de modifier la redirection vers le site souhaité.  
