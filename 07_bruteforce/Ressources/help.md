@@ -9,3 +9,5 @@ En jetant un coup d'oeil sur Internet on peut rapidement trouver une liste des m
 L'attaque par force brute se fonde sur le nombre de tentatives : plus l'attaquant essaye des mots de passe et plus ses chances de trouver la clef augmentent.  
 
 Il suffit donc d'empêcher d'entrer plus de X tentatives par intervalle de temps.
+
+De plus, plus le mot de passe est compliqué, plus celui ci demandera d'essais et donc de temps.
