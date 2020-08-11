@@ -19,9 +19,3 @@ On obtient alors "FortyTwo". Il n'y a plus qu'à lowercase le tout et hash en Sh
 # Comment l'éviter ?
 
 Pour éviter les injections SQL il faut impérativement protéger les entrées utilisateur en back. Certaines fonctions permettent de le faire facilement, mais en général les frameworks font le travail pour nous.
-
-```
-<IfModule mod_headers.c>
-Header set X-Robots-Tag "noindex, nofollow"
-</IfModule>
-```

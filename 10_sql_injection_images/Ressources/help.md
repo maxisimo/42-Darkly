@@ -18,10 +18,4 @@ En le décryptant via md5, on obtient le mot "albatroz". On utilise ensuite l'al
 
 # Comment l'éviter ?
 
-Pour éviter les injections SQL il faut impérativement protéger les entrées utilisateur en back. Certaines fonctions permettent de le faire facilement, mais en général les framework font le travail pour nous.
-
-```
-<IfModule mod_headers.c>
-Header set X-Robots-Tag "noindex, nofollow"
-</IfModule>
-```
+Pour éviter les injections SQL il faut impérativement protéger les entrées utilisateur en back. Certaines fonctions permettent de le faire facilement, mais en général les frameworks font le travail pour nous.
